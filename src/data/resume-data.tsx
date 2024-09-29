@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
     "I am a passionate software developer focused on solving real-world problems through technology. Open to frontend, backend, or full-stack roles, I thrive in challenging environments and am always eager to learn new technologies to build impactful solutions that improve lives.",
   avatarUrl: "https://avatars.githubusercontent.com/u/89033216",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://66f96b65402a1709bac06a7f--manoj18portfolio.netlify.app/",
   contact: {
     email: "manojpradhan1803@gmail.com",
     tel: "+918658225991",
